@@ -7,7 +7,7 @@ A school project to create a website for people on the web to view my work.
 **Coming Soon**
 
 ## Technologies Used 🛠️
-**Coming Soon**
+- **Bootstrap 5**: For building beautiful user interfaces. 🎨
 
 ## Installation and Setup 🚀
 **Coming Soon**
